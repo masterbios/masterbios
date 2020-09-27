@@ -5,15 +5,7 @@
 <a href="https://medium.com/@ankitkp88534" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=masterbios.masterbios" height=29>
 
-<!--
-eat sleep code
-https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif
-code girl
-https://media.giphy.com/media/ZVik7pBtu9dNS/source.gif
--->
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/source.gif" width=auto height=auto>
-
-<br>
 <br>
 
 Hi, I m Ankit Kumar from 🇮🇳 India working as a Software Engineer @ <a href="https://www.geeksforgeeks.org/" target="_blank">GeeksforGeeks</a>. I like solving algorithmic problems and  📚 reading random engineering blogs on medium. I'm currently 🌱 focusing on system design as a personal interest. I have been selected two times for ICPC Regionals (2017, 2019) which is a reputed international programming contest. You can catch me watching Netflix or solving problems on <a href="https://leetcode.com/masterbios/" target="_blank">Leetcode</a> in my free ⏲️ time.
