@@ -7,10 +7,8 @@
 - 💼 Currently working as an **SDE-2 at Indeed**.
 
 - 🧑‍💻 Previously worked as a **Software Engineer at GeeksforGeeks**.
-
-- 💻 Currently working on **system design and optimization projects at Indeed**.
   
-- 📈 Experienced in **Java, Python, and cloud technologies**.
+- 📈 Experienced in **Java, Spring boot, React, Android with Kotlin, and cloud technologies**.
   
 - 🛠️ Improving **system scalability and performance**.
 
